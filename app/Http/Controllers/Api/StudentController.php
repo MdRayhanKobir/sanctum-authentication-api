@@ -74,7 +74,7 @@ class StudentController extends Controller
 
     }
 
-    // profile ap
+    // profile api
     public function profile(){
 
         return response()->json([
